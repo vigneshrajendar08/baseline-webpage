@@ -11,7 +11,7 @@ A simple React static site that is deployed to AWS using serverless.
 ![license](https://img.shields.io/badge/license-MIT-brightgreen?style=plastic)
 ![types](https://img.shields.io/badge/types-TypeScript-blue?style=plastic)
 
-## Goals
+### Goals
 
 - Deploy quickly with minimal effort
 - Everything you need to start building straight away with production quality
